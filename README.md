@@ -17,6 +17,16 @@
 
 </div>
 
+### Currently writing
+
+![Go](https://img.shields.io/badge/Go-daily-00ADD8?style=flat&logo=go&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-frequent-7B42BC?style=flat&logo=terraform&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-frequent-844FBA?style=flat&logo=terraform&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-frequent-CB171E?style=flat&logo=yaml&logoColor=white)
+![Python](https://img.shields.io/badge/Python-occasional-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-occasional-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+> The top-languages widget above only sees public repos under this account; most of my Go work lives in private/org repos, so these badges reflect what I'm actually writing day-to-day.
 
 <details>
 <summary>Tech Stack</summary>
